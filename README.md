@@ -7,7 +7,7 @@
 
 📍 **Локация:** Екатеринбург, Россия  
 📧 **Email:** [danil.pashkov.45@gmail.com](mailto:danil.pashkov.45@gmail.com)
-💼 **Telegram:** [Ваш Telegram](https://t.me/br41nd34dd)  
+💼 **Telegram:** [@br41nd34dd](https://t.me/br41nd34dd)  
 
 ---
 

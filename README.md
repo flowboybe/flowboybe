@@ -1,5 +1,4 @@
 # **Пашков Данил Павлович**
-### Backend Developer / Software Engineer
 
 ---
 

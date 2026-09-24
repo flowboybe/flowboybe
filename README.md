@@ -1,4 +1,4 @@
-# 👋 Пашков Данил Павлович — 19 лет, Екатеринбург, 3 курс ФИИТ УрФУ
+# 👋 Пашков Данил Павлович — 20 лет, Екатеринбург, 3 курс ФИИТ УрФУ
 
 ### 📞 Контактная информация:
 * 📧 **email** — [danil.pashkov.45@gmail.com](mailto:danil.pashkov.45@gmail.com)
@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=flat-square&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)
@@ -34,7 +35,7 @@
 ---
 
 ### 🧑‍💻 О себе:
-Backend-разработчик (.NET/C#). Специализируюсь на разработке серверной логики и создании RESTful API с использованием ASP.NET Core. Имею опыт проектирования баз данных и работы с EF Core (PostgreSQL). Активно пользуюсь Git, понимаю принципы ООП, использовал Docker для локального развертывания сервисов и знаком с базовыми концепциями брокеров сообщений (Apache Kafka). Умею писать сырые SQL-запросы и настраивать миграции. Имею опыт как самостоятельного проектирования сервисов с нуля, так и командной разработки в рамках учебных проектов.
+Backend-разработчик (.NET/C#). Специализируюсь на разработке серверной логики и создании RESTful API с использованием ASP.NET Core. Имею опыт проектирования баз данных и работы с EF Core (PostgreSQL). Активно пользуюсь Git, понимаю принципы ООП, использовал Docker для локального развертывания сервисов и знаком с базовыми концепциями брокеров сообщений (Apache Kafka). Умею писать сырые SQL-запросы и настраивать миграции. Имею опыт как самостоятельного проектирования сервисов с нуля, так и командной разработки в рамках учебных проектов. Имею опыт в написании асинхронного кода на golang.
 
 ---
 
@@ -43,6 +44,7 @@ Backend-разработчик (.NET/C#). Специализируюсь на р
 #### 💻 Backend:
 * 🔹 - C#: .NET, ASP.NET, EFCore
 * 🔹 - SQL: PostgreSQL
+* 🔹 - Golang
 
 #### ⚙️ DevOps:
 * 🔹 - Git
@@ -82,6 +84,7 @@ Backend-разработчик (.NET/C#). Специализируюсь на р
 * 🚀 **Gap in space** - компьютерная игра на Unity, вышла в финал конкурса игр ФИИТ-2024.
 * 🃏 **Jack-casino** - игра на низкоуровневом языке Jack.
 * 🛠️ **Python-утилиты** - CLI-утилиты, о которых написано в разделе прочее.
+* 🛠️ **Telegram-bot** - телеграм бот на golang.
 
 ---
 
